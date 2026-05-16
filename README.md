@@ -10,6 +10,8 @@ Overview of Version Control Systems
 ●	Maintaining a timeline history of commits.
 ●	Example: A project with multiple developers (Rajput and Shipal) faced inconsistencies, highlighting the need for VCS.
 ●	As projects grow, code is continually updated, and VCS helps manage these changes effectively.
+
+
 Note 2
 Git and Its Popularity
 ●	Git is the most widely used VCS, with usage in major companies like Apple and Google.
@@ -23,6 +25,9 @@ Types of Version Control Systems
 2.	Centralized VCS: A single central repository that all developers push changes to. This can lead to a single point of failure if the central server goes down.
 3.	Distributed VCS: Each developer has their own local repository, allowing for greater flexibility and resilience against failures. 
 ●	Use cases vary based on project requirements, especially in sensitive sectors like finance.
+
+
+
 Note 4
 Setting Up Git
 ●	Demonstration on configuring Git on a local machine:
@@ -30,9 +35,12 @@ Setting Up Git
 ●	Use of commands such as `git init` to initialize a repository.
 ●	Importance of hands-on practice in understanding VCS functionalities. 
 ●	Example workflow:
-4.	Create a directory and initialize it with Git.
-5.	Create files and track them using `git add`.
-6.	Commit changes with `git commit` and a message.
+5.	Create a directory and initialize it with Git.
+6.	Create files and track them using `git add`.
+7.	Commit changes with `git commit` and a message.
+
+
+
 Note 5
 Practical Demonstration of Git Commands
 ●	Practical steps in using Git:
@@ -42,6 +50,8 @@ Practical Demonstration of Git Commands
 ●	Commit changes with `git commit -m "message"` to save progress.
 ●	Review commit history using `git log`.
 ●	Importance of understanding the commands and their outcomes in a live coding environment.
+
+
 Note 6
 Git Commit Command Usage
 ●	Use the command `git commit -m "<message>"` to commit changes in Git.
