@@ -12,7 +12,7 @@ Overview of Version Control Systems
 ●	As projects grow, code is continually updated, and VCS helps manage these changes effectively.
 
 
-Note 2
+# Note 2
 Git and Its Popularity
 ●	Git is the most widely used VCS, with usage in major companies like Apple and Google.
 ●	Other VCS tools include Apache Subversion (SVN) and Piper.
